@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+google-genai
+psycopg[binary]
+pgvector
+httpx
+faker
+pydantic
+sse-starlette
+numpy
