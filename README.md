@@ -123,3 +123,10 @@ Recruiter types: "Software engineer, distributed systems, 3+ yrs, AI/ML, SF"
 ## 📝 No HydraDB? Use Mock Mode
 
 Set `MOCK_MODE=true` in `.env` to run with an in-memory store (no database needed). The seeded profiles will be held in memory for the session.
+
+
+
+
+https://github.com/user-attachments/assets/55d80e35-67dd-4edd-a105-3ec0ac7fcb88
+
+
